@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.image{
+    width: 18%;
+   
+    border: solid 5px blue;
+    margin: 5px;
+    border-radius: 10px;
+}
